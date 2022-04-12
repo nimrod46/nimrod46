@@ -7,26 +7,31 @@
 
 
 
+<!--
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nimrod-m-b308b4122">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<!--
+-->
 
+<!--
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=nimrod46&style=flat-square&color=blue" alt=""/>
 </div>
 -->
 
 ---
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+**Programming since 2015**~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔭 Completing my **Academic Degree at Tel-Hai College**.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👨‍🏫 **Teaching students programming** at Shoham High School as a part of the [**FRC** (FIRST Robotics Competition)](https://www.firstinspires.org/robotics/frc) program.
+
+- 🔥 Passionate about Advance Programming Design Pinciples.
+
+- 🚀 Looking forward for my first job - working with a team and developing my skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nimrod-m-b308b4122)
 :man_technologist:
@@ -34,7 +39,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<p align="center">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
@@ -49,16 +55,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrod46&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
+  
+  
+</p>
 
 
----
+
 <!--
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nimrod46&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrod46&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ### 💼 My repos:
