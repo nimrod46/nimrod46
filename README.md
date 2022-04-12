@@ -51,8 +51,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/58300181/118833035-09ee3a00-b8b9-11eb-95de-ee6e69e2f510.png" title="blazor" alt="blazor" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/develop/icons/heroku/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrod46&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
