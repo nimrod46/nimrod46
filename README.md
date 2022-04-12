@@ -16,11 +16,11 @@
 </div>
 -->
 
-<!--
+
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=nimrod46&style=flat-square&color=blue" alt=""/>
 </div>
--->
+
 
 ---
 **Programming since 2015**~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
