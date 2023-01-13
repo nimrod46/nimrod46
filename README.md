@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nimrod46&show_icons=true&theme=merko&hide=contribs" align="right" />
+<img alt="General GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nimrod46&show_icons=true&theme=merko&hide=contribs" align="right" />
   
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="220"/>
 </div>
@@ -55,7 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrod46&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nimrod46&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) 
   
   
 </p>
@@ -71,10 +71,10 @@
 
 ---
 ### 💼 My repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnyxTronix2231&repo=OnyxTronix-Scout-Application&theme=synthwave)](https://github.com/OnyxTronix2231/OnyxTronix-Scout-Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimrod46&repo=Data-Structures-and-Algorithms&theme=synthwave)](https://github.com/nimrod46/Data-Structures-and-Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimrod46&repo=NetworkBehavior&theme=synthwave)](https://github.com/nimrod46/NetworkBehavior)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimrod46&repo=RPGMultiplayerGame&theme=synthwave)](https://github.com/nimrod46/RPGMultiplayerGame)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OnyxTronix2231&repo=OnyxTronix-Scout-Application&theme=synthwave)](https://github.com/OnyxTronix2231/OnyxTronix-Scout-Application)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nimrod46&repo=Data-Structures-and-Algorithms&theme=synthwave)](https://github.com/nimrod46/Data-Structures-and-Algorithms)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nimrod46&repo=NetworkBehavior&theme=synthwave)](https://github.com/nimrod46/NetworkBehavior)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nimrod46&repo=RPGMultiplayerGame&theme=synthwave)](https://github.com/nimrod46/RPGMultiplayerGame)
 
 
 
